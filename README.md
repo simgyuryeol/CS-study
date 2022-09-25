@@ -31,7 +31,7 @@ ___
 |--|--|
 |[gyoogle님 블로그](https://gyoogle.dev/blog/)|매우 좋은 사이트 1순위|
 |[면접 질문 총모음집](https://github.com/4z7l/tech_interview.zip)|각 분야(코틀린-안드로이드 포함) 및 인성면접 질문도 정리가 되어있다.|
-|[백엔드 질문정리](https://github.com/ksundong/backend-interview-question)|백엔드 관련 질문 정리|
+|[백엔드 질문정리](https://github.com/backtony/Backend_Interview_for_Beginner)|백엔드 관련 질문 정리|
 
 
 
@@ -553,7 +553,7 @@ ___
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4>2022.09.10</td>
+            <td rowspan=4>2022.09.09</td>
             <td>Array</td>
             <td>Data Structure</td>
         </tr>
@@ -568,6 +568,61 @@ ___
         <tr>
             <td>SQL injection</td>
             <td>DB</td>
+        </tr>
+        <tr>
+            <td rowspan=4>2022.09.17</td>
+            <td>디자인 패턴의 개념과 종류</td>
+            <td>Design Pattern</td>
+        </tr>
+        <tr>
+            <td>BigO</td>
+            <td>Algorithm</td>
+        </tr>
+        <tr>
+            <td>java 프로그래밍이란</td>
+            <td>Java</td>
+        </tr>
+        <tr>
+            <td>TDD란</td>
+            <td>ETC</td>
+        </tr>
+        <tr>
+            <td rowspan=4>2022.09.24</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan=5>2022.10.01</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
