@@ -758,5 +758,50 @@ ___
     </tbody>
 </table>
 </details>
+<details>
+<summary>2023 상반기</summary>
 
+<table>
+    <thead>
+        <tr>
+            <th>날짜</th>
+            <th>KIMTHE's 주제</th>
+            <th>simgyuryeol's 주제</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2023.01.09</td>
+            <td>객체지향 프로그래밍의 특징, SOLID</td>
+            <td>시간복잡도, 공간복잡도</td>
+        </tr>
+        <tr>
+            <td>2023.01.12</td>
+            <td>Garbage collection 작동 방식</td>
+            <td>쿠키와 세션</td>
+        </tr>
+        <tr>
+            <td>2023.01.15</td>
+            <td>옵저버 패턴</td>
+            <td>시스템 콜</td>
+        </tr>
+        <tr>
+            <td>2023.01.15</td>
+            <td>옵저버 패턴</td>
+            <td>시스템 콜</td>
+        </tr>
+        <tr>
+            <td>2023.01.19</td>
+            <td>싱글턴 패턴</td>
+            <td>데이터베이스의 key 종류</td>
+        </tr>
+        <tr>
+            <td>2023.01.25</td>
+            <td>자료구조의 종류</td>
+            <td>JVM</td>
+        </tr>
+    </tbody>
+</table>
+
+</details>
  
